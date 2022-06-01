@@ -1,0 +1,1 @@
+﻿19:43:17: [ERROR] Failed to initialize ASF distribution 'category must be a Warning subclass'
